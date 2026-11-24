@@ -64,3 +64,8 @@ dependencies {
 
     implementation(libs.vinchamp77.buildutils)
 }
+dependencies {
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-protobuf:1.8.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.8.0")
+}
+
